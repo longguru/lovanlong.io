@@ -13,7 +13,7 @@
               text-2xl
               lg:text-4xl
             "
-            href="#"
+            href="/"
           >
             <img
               class="h-10"
@@ -21,7 +21,7 @@
               alt="Thiết kế website ở Vĩnh Phúc"
             />
           </a>
-          <ul class="list-reset mb-6">
+          <ul class="list-reset my-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="https://facebook.com/lovanlong.ga"
@@ -36,31 +36,31 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://zalo.me/longitk"
                 class="
                   no-underline
                   hover:underline
                   text-gray-800
                   hover:text-pink-500
                 "
-                >Linkedin</a
+                >Zalo</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="tel:0374638603"
                 class="
                   no-underline
                   hover:underline
                   text-gray-800
                   hover:text-pink-500
                 "
-                >Twitter</a
+                >Gọi điện</a
               >
             </li>
           </ul>
         </div>
-        <div class="flex-1">
+        <div class="flex-1 mb-6">
           <p class="uppercase text-gray-500 md:mb-6">Liên kết</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
@@ -125,31 +125,34 @@
             </li>
           </ul>
         </div>
-        <div class="flex-1">
+        <div class="flex-1 mb-6">
           <p class="uppercase text-gray-500 md:mb-6">Liên hệ chúng tôi</p>
-          <p class="text-gray-500 md:mb-6">Thiết kế trang web hiện đại</p>
           <p class="text-gray-500 md:mb-6">
-            201 E. Fifth St. <br />
-            Suite 1900-1932<br />
-            Cincinnati, OH 45202<br />
-            Điện thoại: 513.400.3148
+            <em>Thiết kế trang web hiện đại</em>
           </p>
           <p class="text-gray-500 md:mb-6">
-            giá: Bắt đầu từ $ 500 với các sản phẩm lớn hơn yêu cầu báo giá tùy
-            chỉnh
+            217, Hai Bà Trưng <br />
+            P. Hùng Vương<br />
+            Phúc Yên, Vĩnh Phúc<br />
+            Điện thoại: <a href="tel:0374638603">037 463 86 03</a> <br />
+            Email: <a href="mailto:info@lovanlong.ga">info@lovanlong.ga</a>
+          </p>
+          <p class="text-gray-500 md:mb-6">
+            Giá: Bắt đầu từ đ 5.000.000 <br />
+            với các sản phẩm lớn hơn yêu cầu báo giá tùy chỉnh
           </p>
         </div>
         <div class="flex-1">
           <p class="uppercase text-gray-500 md:mb-6">Về chúng tôi</p>
           <p class="text-gray-500 md:mb-6">
-            Chúng tôi là một công ty thiết kế trang web Ohio phục vụ khu vực tàu
-            điện ngầm Cincinnati, Dayton, Columbus, Cleveland và các doanh
-            nghiệp khác trên toàn tiểu bang. Chúng tôi tự hào về việc cung cấp
-            mức độ dịch vụ được cá nhân hóa và nỗ lực tìm ra giải pháp cho nhu
-            cầu của doanh nghiệp bạn. Mục tiêu của chúng tôi là giúp khách hàng
-            của bạn tìm thấy bạn theo cách hiệu quả nhất có thể. Liên hệ với
-            chúng tôi ngay hôm nay để lên lịch hẹn thảo luận về trang web mới
-            của bạn.
+            Chúng tôi là một công ty
+            <strong>thiết kế web tại Vĩnh Phúc</strong> phục vụ khu vực Phúc Yên
+            và các doanh nghiệp khác trên toàn Vĩnh Phúc. Chúng tôi tự hào về
+            việc cung cấp mức độ dịch vụ được cá nhân hóa và nỗ lực tìm ra giải
+            pháp cho nhu cầu của doanh nghiệp bạn. Mục tiêu của chúng tôi là
+            giúp khách hàng của bạn tìm thấy bạn theo cách hiệu quả nhất có thể.
+            Liên hệ với chúng tôi ngay hôm nay để lên lịch hẹn thảo luận về
+            trang web mới của bạn.
           </p>
         </div>
       </div>

@@ -13,20 +13,21 @@
       >
         Nhóm thiết kế website tại Vĩnh Phúc hỗ trợ Doanh nghiệp & Cá nhân
       </h2>
-      <p class="text-gray-600 mb-8">
+      <p class="p-6 text-gray-600 mb-8">
         Việc thu hút và giữ chân khách hàng yêu cầu cung cấp cho mọi người thông
         tin họ muốn biết về doanh nghiệp của bạn. Nếu bạn không có một trang web
         hấp dẫn, kết nối với mọi người, thì khách hàng mới có thể không dùng thử
         doanh nghiệp của bạn. Bạn cũng có thể mất khách hàng hiện tại vào tay
-        đối thủ cạnh tranh. Thật không may, khoảng một nửa số công ty Hoa Kỳ
+        đối thủ cạnh tranh. Thật không may, khoảng một nửa số công ty Việt Nam
         hoặc không có trang web hoặc sự hiện diện trên web của họ đã quá lỗi
-        thời. Một số doanh nghiệp này ở Cincinnati, Dayton, Columbus, hoặc các
-        vùng khác của tiểu bang chúng tôi. Chúng tôi là một công ty phát triển
-        web ở Ohio cung cấp sự quan tâm cá nhân đến doanh nghiệp của bạn trong
-        khi chúng tôi giúp bạn truy cập web. Chúng tôi sẽ xác định nhu cầu của
-        bạn và tạo ra các giải pháp phù hợp với những nhu cầu đó.
+        thời. Một số doanh nghiệp này ở Phúc Yên hoặc các vùng khác của khu vực
+        chúng tôi. Chúng tôi là một công ty
+        <em>thiết kế web ở Vĩnh Phúc</em> cung cấp sự quan tâm cá nhân đến doanh
+        nghiệp của bạn trong khi chúng tôi giúp bạn chuyển đổi số. Chúng tôi sẽ
+        xác định nhu cầu của bạn và tạo ra các giải pháp phù hợp với những nhu
+        cầu đó.
       </p>
-      <p class="text-gray-600 mb-8">
+      <p class="p-6 text-gray-600 mb-8">
         Đây chỉ là một số dịch vụ chúng tôi cung cấp:
       </p>
       <div class="w-full mb-4">
@@ -39,7 +40,7 @@
           <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
             Thiết kế website
           </h3>
-          <p class="text-gray-600 mb-8">
+          <p class="p-6 text-gray-600 mb-8">
             Chúng tôi thiết kế trang web cho các doanh nghiệp thuộc mọi loại
             hình và quy mô. Chúng tôi có các gói “khởi động” giới thiệu và có
             thể mở rộng các giải pháp của mình để phù hợp với các công ty ở mọi
@@ -56,7 +57,7 @@
             <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
               Phát triển trang web và ứng dụng
             </h3>
-            <p class="text-gray-600 mb-8">
+            <p class="w-full p-6 text-gray-600 mb-8">
               Chúng tôi có thể hỗ trợ khách hàng có nhu cầu không thể đáp ứng
               được bằng hệ thống quản lý nội dung (CMS) như WordPress hoặc
               Joomla. Nếu bạn cần một giải pháp tùy chỉnh hơn thì các nhà phát
