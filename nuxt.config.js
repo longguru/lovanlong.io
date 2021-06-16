@@ -9,7 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Lỗ Văn Long | Dịch vụ thiết kế website tại Vĩnh Phúc',
+    title: 'Thiết kế website tại Vĩnh Phúc | Lỗ Văn Long',
     htmlAttrs: {
       lang: 'vi',
     },
@@ -20,7 +20,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Thiết kế website tại Vĩnh Phúc của chúng tôi hỗ trợ bạn đưa doanh nghiệp "Go online". Chúng tôi cung cấp dịch vụ phát triển web cho Vĩnh Phúc và toàn Việt Nam.',
+          'Dịch vụ Thiết kế website tại Vĩnh Phúc giúp bạn không chỉ có web mà còn giúp bạn tiếp cận được nhiều khách hàng tiềm năng hơn nữa.',
       },
       {
         hid: 'msapplication-TileColor',

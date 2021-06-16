@@ -46,7 +46,7 @@
           text-center text-white
         "
       >
-        Sẵn sàng để bắt đầu một dự án?
+        Bạn muốn thiết kế web?
       </h2>
       <div class="w-full mb-4">
         <div
@@ -56,30 +56,29 @@
       <h3 class="my-4 text-3xl leading-tight">
         Liên hệ với chúng tôi ngay hôm nay!
       </h3>
-      <button
+      <a
+        href="tel:0374638603"
         class="
           mx-auto
           lg:mx-0
-          hover:underline
-          bg-white
-          text-gray-800
           font-bold
-          rounded-full
+          bg-white
+          text-gray-900
           my-6
           py-4
           px-8
+          rounded-full
           shadow-lg
+          hover:bg-gray-300
+          hover:text-gray-700
           focus:outline-none
-          focus:shadow-outline
-          transform
-          transition
-          hover:scale-105
-          duration-300
-          ease-in-out
+          focus-visible:ring-2
+          focus-visible:ring-white
+          focus-visible:ring-offset-2
+          focus-visible:ring-offset-gray-900
         "
+        >Bắt đầu</a
       >
-        Bắt đầu!
-      </button>
     </section>
   </div>
 </template>

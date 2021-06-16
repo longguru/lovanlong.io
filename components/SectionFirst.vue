@@ -11,7 +11,7 @@
           text-center text-gray-800
         "
       >
-        Nhóm thiết kế website tại Vĩnh Phúc hỗ trợ Doanh nghiệp & Cá nhân
+        Thiết kế website tại Vĩnh Phúc hỗ trợ bạn và doanh nghiệp của bạn
       </h2>
       <p class="p-6 text-gray-600 mb-8">
         Việc thu hút và giữ chân khách hàng yêu cầu cung cấp cho mọi người thông
@@ -38,7 +38,7 @@
       <div class="flex flex-wrap">
         <div class="w-5/6 sm:w-1/2 p-6">
           <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
-            Thiết kế website
+            Thiết kế website bán hàng
           </h3>
           <p class="p-6 text-gray-600 mb-8">
             Chúng tôi thiết kế trang web cho các doanh nghiệp thuộc mọi loại

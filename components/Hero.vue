@@ -25,40 +25,40 @@
           "
         >
           <p class="uppercase tracking-loose w-full">
-            Bạn đang tìm dịch vụ thiết kế website?
+            Bạn muốn khách hàng tiềm năng biết nhiều hơn nữa về doanh nghiệp của bạn?
           </p>
           <h1 class="my-4 text-5xl font-bold leading-tight">
-            Dịch vụ thiết kế website tại Vĩnh Phúc!
+            Thiết kế website tại Vĩnh Phúc
           </h1>
           <p class="leading-normal text-2xl mb-8">
-            Quy trình thiết kế web của chúng tôi xoay quanh việc hiểu nhu cầu
-            của bạn và giúp bạn phát triển doanh nghiệp của mình. Liên hệ với
-            các nhà phát triển của chúng tôi để bắt đầu.
+            Dịch vụ Thiết kế website tại Vĩnh Phúc giúp bạn không chỉ có web mà
+            còn giúp bạn tiếp cận được nhiều khách hàng tiềm năng hơn nữa. Liên
+            hệ với các nhà phát triển của chúng tôi để bắt đầu.
           </p>
-          <button
+
+          <a
+            href="tel:0374638603"
             class="
               mx-auto
               lg:mx-0
-              hover:underline
-              bg-white
-              text-gray-800
               font-bold
-              rounded-full
+              bg-white
+              text-gray-900
               my-6
               py-4
               px-8
+              rounded-full
               shadow-lg
+              hover:bg-gray-300
+              hover:text-gray-700
               focus:outline-none
-              focus:shadow-outline
-              transform
-              transition
-              hover:scale-105
-              duration-300
-              ease-in-out
+              focus-visible:ring-2
+              focus-visible:ring-white
+              focus-visible:ring-offset-2
+              focus-visible:ring-offset-gray-900
             "
+            >Liên hệ chúng tôi</a
           >
-            Liên hệ chúng tôi
-          </button>
         </div>
         <!--Right Col-->
         <div class="w-full md:w-3/5 py-6 text-center">
